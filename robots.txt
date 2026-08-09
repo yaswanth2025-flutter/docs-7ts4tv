@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-4e2x2y.absolutebeachview.co.nz/sitemap.xml
